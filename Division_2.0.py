@@ -1,3 +1,15 @@
+'''
+Authors: Timothy Wright and Hannah Veveiros
+Date: 9/12/2022
+
+Program that solves the Pre-calc POW#3 Long Divison
+
+NOTE: As stated from "Eclipse Public License - v 2.0" 
+anyone that uses this program user MUST cite the link from which they obtained the program.
+The purpose is to discourage cheating and only use this as a resource to find your own solution to the problem
+The link is found here: https://github.com/timmyjr11/POW-3_Long_Division_2.0/blob/master/Division_2.0.py
+'''
+
 # For loop that increments the divisor
 for divisor in range(100, 1000):
     # For that increments the dividend
